@@ -1,0 +1,125 @@
+C:/Users/phala/RiderProjects/Book/Book/obj/Debug/net8.0/Book.csproj.AssemblyReference.cache
+C:/Users/phala/RiderProjects/Book/Book/obj/Debug/net8.0/Book.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/phala/RiderProjects/Book/Book/obj/Debug/net8.0/Book.AssemblyInfoInputs.cache
+C:/Users/phala/RiderProjects/Book/Book/obj/Debug/net8.0/Book.AssemblyInfo.cs
+C:/Users/phala/RiderProjects/Book/Book/obj/Debug/net8.0/Book.csproj.CoreCompileInputs.cache
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Book.exe
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Book.deps.json
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Book.runtimeconfig.json
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Book.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Book.pdb
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Npgsql.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/System.IO.Pipelines.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/System.Text.Json.dll
+C:/Users/phala/RiderProjects/Book/Book/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+C:/Users/phala/RiderProjects/Book/Book/obj/Debug/net8.0/Book.csproj.Up2Date
+C:/Users/phala/RiderProjects/Book/Book/obj/Debug/net8.0/Book.dll
+C:/Users/phala/RiderProjects/Book/Book/obj/Debug/net8.0/refint/Book.dll
+C:/Users/phala/RiderProjects/Book/Book/obj/Debug/net8.0/Book.pdb
+C:/Users/phala/RiderProjects/Book/Book/obj/Debug/net8.0/Book.genruntimeconfig.cache
+C:/Users/phala/RiderProjects/Book/Book/obj/Debug/net8.0/ref/Book.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Book
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Book.deps.json
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Book.runtimeconfig.json
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Book.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Book.pdb
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Npgsql.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/System.IO.Pipelines.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/System.Text.Encodings.Web.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/System.Text.Json.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/runtimes/browser/lib/net8.0/System.Text.Encodings.Web.dll
+/Users/docup/RiderProjects/Book/Book/obj/Debug/net8.0/Book.csproj.AssemblyReference.cache
+/Users/docup/RiderProjects/Book/Book/obj/Debug/net8.0/Book.GeneratedMSBuildEditorConfig.editorconfig
+/Users/docup/RiderProjects/Book/Book/obj/Debug/net8.0/Book.AssemblyInfoInputs.cache
+/Users/docup/RiderProjects/Book/Book/obj/Debug/net8.0/Book.AssemblyInfo.cs
+/Users/docup/RiderProjects/Book/Book/obj/Debug/net8.0/Book.csproj.CoreCompileInputs.cache
+/Users/docup/RiderProjects/Book/Book/obj/Debug/net8.0/Book.csproj.Up2Date
+/Users/docup/RiderProjects/Book/Book/obj/Debug/net8.0/Book.dll
+/Users/docup/RiderProjects/Book/Book/obj/Debug/net8.0/refint/Book.dll
+/Users/docup/RiderProjects/Book/Book/obj/Debug/net8.0/Book.pdb
+/Users/docup/RiderProjects/Book/Book/obj/Debug/net8.0/Book.genruntimeconfig.cache
+/Users/docup/RiderProjects/Book/Book/obj/Debug/net8.0/ref/Book.dll
+/Users/docup/RiderProjects/Book/Book/bin/Debug/net8.0/appsettings.json
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Book.exe
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\appsettings.json
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Book.deps.json
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Book.runtimeconfig.json
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Book.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Book.pdb
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Npgsql.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\obj\Debug\net8.0\Book.csproj.AssemblyReference.cache
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\obj\Debug\net8.0\Book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\obj\Debug\net8.0\Book.AssemblyInfoInputs.cache
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\obj\Debug\net8.0\Book.AssemblyInfo.cs
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\obj\Debug\net8.0\Book.csproj.CoreCompileInputs.cache
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\obj\Debug\net8.0\Book.csproj.Up2Date
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\obj\Debug\net8.0\Book.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\obj\Debug\net8.0\refint\Book.dll
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\obj\Debug\net8.0\Book.pdb
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\obj\Debug\net8.0\Book.genruntimeconfig.cache
+C:\Users\phala\OneDrive\Рабочий стол\Book\Book\obj\Debug\net8.0\ref\Book.dll
